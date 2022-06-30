@@ -294,6 +294,7 @@ table4 = setNames(cbind(rownames(table3), table3, row.names = NULL),
          c("timeperiod", "China", "USA", "Vietnam"))
 table4
 
+# this is a draft for line graph in 3 different countries
 # create a line graph
 plot(as.numeric(table4$timeperiod), table4$China, type = "l",
      ylab = "Timeline", xlab = "Number of total cases",
