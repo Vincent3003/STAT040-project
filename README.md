@@ -4,4 +4,4 @@ I will calculate the cases in total, the average and percentage of total cases i
 According to GitHub, there are 57,395 rows and 50 columns in that dataset. 
 However, there are some of the rows and columns that will not be needed in this project, so I can cut out some unnecessary columns and rows to keep China, United States, and Vietnam.
 
-  I worte this code because I wanted to get more comfortable with R coding programe which is also my final project for Introduction to R & SAS class
+  I worte this code because I wanted to be familiar with R coding programe at the beginning which is also my final project for Introduction to R & SAS class
