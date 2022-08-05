@@ -1,4 +1,4 @@
-# Covid in 3 different countries
+# Intro to R & SAS Final Project
   This project is about comparing the average of total cases and the percentage of total average cases with the population in three different countries: China, USA, and Vietnam. 
 I will calculate the cases in total, the average and percentage of total cases in those three countries to see the differences since they have three different populations. 
 According to GitHub, there are 57,395 rows and 50 columns in that dataset. 
